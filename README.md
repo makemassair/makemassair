@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @makemassair
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on things, to be decided. 
+- 👋 Hi, I'm **makemassair**/
+- 👀 I'm learning and practising front end web development.
+- 🌱 Currently I'm learning React, JSX, and connected technologies.
+- 💞️ I'm looking for work as a junior developer/ 
 - 📫 How to reach me: mike@makemassair.co.uk
 
 <!---
