@@ -1,4 +1,4 @@
-- 👋 Hi, I'm **makemassair**/
+- 👋 Hi, I'm **makemassair**.
 - 👀 I'm learning and practising front end web development.
 - 🌱 Currently I'm learning React, JSX, and connected technologies.
 - 💞️ I'm looking for work as a junior developer/ 
